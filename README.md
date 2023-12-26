@@ -4,6 +4,6 @@
 
 ### [Medium Article] https://allenjake440.medium.com/
 
-#### Acquired Data from [realgm] https://basketball.realgm.com/ncaa/ and [Men's College Basketball Reference] https://www.sports-reference.com/cbb/seasons/men/2023-polls.html
+#### Acquired Data since 2003 from [realgm] https://basketball.realgm.com/ncaa/ and [Men's College Basketball Reference] https://www.sports-reference.com/cbb/seasons/men/2023-polls.html
 ##### Database Construction:
 1. WebScrapped Data Tables 
