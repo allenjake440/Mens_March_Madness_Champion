@@ -7,19 +7,19 @@
 #### Acquired Data since 2003 from ![realgm](https://basketball.realgm.com/ncaa/) and ![Men's College Basketball Reference](https://www.sports-reference.com/cbb/seasons/men/2023-polls.html)
 ##### Database Construction:
 1. WebScrapped Data Tables:
-   Team Stats:
+   ###### Team Stats:
    - Conference Advanced Team Totals
    - Conference Misc Stats Team Totals
    - Conference Average Stats Team Totals
    - Non-Conference Advanced Team Totals
    - Non-Conference Misc Stats Team Totals
    - Non-Conference Average Stats Team Totals
-   Player Stats:
+   ###### Player Stats:
    - Player Conference Average Stats
    - Player Conference Tournament Stats
    - Player March Madness Tournament Stats
    - Player Height and Weight Stats
-   Other Stats:
+   ###### Other Stats:
    - Men's College Basketball AP Polls (reverse polls values) (via MCBR)
    - NCAA Div 1 Tournament Bracket (via Wikipedia)
 
