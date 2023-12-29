@@ -24,9 +24,9 @@
    - NCAA Div 1 Tournament Bracket (via Wikipedia)
 
 2. Merged (joined) Data Tables:
-   Team Database:
+   ######## Team Database:
     - Merged all team datatables and stats
-   Player Database:
+   ######## Player Database:
     - Merged all player datatables and stats
   
 3. Info on all Custom Calculated Features:
