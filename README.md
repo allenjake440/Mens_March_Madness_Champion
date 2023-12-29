@@ -4,7 +4,7 @@
 
 ### ![Medium Article](https://allenjake440.medium.com/predicting-the-mens-march-madness-champion-with-machine-learning-892bd78997ca)
 
-#### Acquired Data since 2003 from ![realgm](https://basketball.realgm.com/ncaa/) and ![Men's College Basketball Reference](https://www.sports-reference.com/cbb/seasons/men/2023-polls.html)
+#### Acquired Data since 2003 from ![realgm](https://basketball.realgm.com/ncaa/) and ![Men's College Basketball Reference](https://www.sports-reference.com/cbb/seasons/men/2023-polls.html).
 ##### Database Construction:
 1. WebScrapped and Hand Copied Data Tables:
    ###### Team Stats:
