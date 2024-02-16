@@ -7,7 +7,7 @@
 #### Acquired Data since 2003 from ![realgm](https://basketball.realgm.com/ncaa/) and ![Men's College Basketball Reference](https://www.sports-reference.com/cbb/seasons/men/2023-polls.html).
 ##### Since the entire the database file is too large to share on github, here is a step-by-step contruction log overview of the database.
 ##### Database Construction:
-1. WebScrapped and Hand Copied Data Tables:
+1. WebScraped and Hand Copied Data Tables:
    ###### Team Stats:
    - Conference Advanced Team Totals
    - Conference Misc Stats Team Totals
