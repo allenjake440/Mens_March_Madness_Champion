@@ -935,7 +935,7 @@ predicted champion share,champion share,Team,Season,Team/Season
 0.072903808,0,Arkansas,2018,Arkansas 2018
 0.121505206,0,Creighton,2018,Creighton 2018
 0.069854719,0,Missouri,2018,Missouri 2018
-0.055178744,0,Virginia Tech,2018,Virginia Tech 2018
+5.52E-02,0,Virginia Tech,2018,Virginia Tech 2018
 0.105618967,0,NC State,2018,NC State 2018
 0.041470445,0,Providence,2018,Providence 2018
 0.155870635,0,Texas,2018,Texas 2018
@@ -1258,6 +1258,7 @@ predicted champion share,champion share,Team,Season,Team/Season
 0.016473004,0,Saint Peter's,2024,Saint Peter's 2024
 0.126987156,0,Clemson,2024,Clemson 2024
 0.092795557,0,Nebraska,2024,Nebraska 2024
+0.209497588,0,Florida,2024,Florida 2024
 0.089670681,0,Colorado State,2024,Colorado State 2024
 0.283258441,0,Baylor,2024,Baylor 2024
 0.180840508,0,Michigan State,2024,Michigan State 2024
@@ -1269,6 +1270,7 @@ predicted champion share,champion share,Team,Season,Team/Season
 -0.006116611,0,Howard,2024,Howard 2024
 0.074885425,0,UAB,2024,UAB 2024
 0.06109331,0,Montana State,2024,Montana State 2024
+0.179224745,0,Texas,2024,Texas 2024
 0.13679892,0,South Carolina,2024,South Carolina 2024
 0.111417872,0,TCU,2024,TCU 2024
 0.264831035,0,Brigham Young,2024,Brigham Young 2024
