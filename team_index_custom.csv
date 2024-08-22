@@ -1,0 +1,538 @@
+﻿Team,team_id,abrev
+Abilene Christian,1,ACU
+Air Force,2,AF
+Akron,3,AKR
+Alabama,4,UA
+Alabama A&M,5,AAMU
+Alabama St.,6,ALAST
+Alabama State,6,ALAST
+Albany,7,ALBNY
+Albany (NY),7,ALBNY
+Alcorn St.,8,ALCST
+Alcorn State,8,ALCST
+American,9,AMERU
+American University,9,AMERU
+Appalachian St.,10,APPST
+Appalachian State,10,APPST
+Arizona,11,ARZ
+Arizona St.,12,ASU
+Arizona State,12,ASU
+Arkansas,13,ARK
+Arkansas Little Rock,145,UALR
+Arkansas Pine Bluff,15,UAPB
+Arkansas St.,14,ARKST
+Arkansas State,14,ARKST
+Arkansas-Pine Bluff,15,UAPB
+Army,16,USMA
+Army West Point,16,USMA
+Auburn,17,AUB
+Austin Peay,18,APSU
+Ball St.,19,BLLST
+Ball State,19,BLLST
+Baylor,20,BAYL
+Bellarmine,21,BELL
+Belmont,22,BLMNT
+Bethune Cookman,23,BTHCK
+Bethune-Cookman,23,BTHCK
+Binghamton,24,BNGH
+Birmingham Southern,367,BIRM
+Birmingham-Southern,367,BIRM
+Boise St.,25,BOISE
+Boise State,25,BOISE
+Boston College,26,BOS
+Boston University,27,BSTN
+Bowling Green,28,BGSU
+Bowling Green State,28,BGSU
+Bradley,29,BRDLY
+Brigham Young,30,BYU
+Brown,31,BRWN
+Bryant,32,BRYNT
+Bucknell,33,BUCK
+Buffalo,34,BUFF
+Butler,35,BTLR
+BYU,30,BYU
+Cal Baptist,41,CALBU
+Cal Poly,36,POLY
+Cal St. Bakersfield,37,CSUB
+Cal St. Fullerton,38,CSFUL
+Cal St. Northridge,39,CSUN
+Cal State Bakersfield,37,CSUB
+Cal State Fullerton,38,CSFUL
+Cal State Northridge,39,CSUN
+California,40,Cal
+California Baptist,41,CALBU
+Campbell,42,CAM
+Canisius,43,CAN
+Centenary,365,CCL
+Centenary (LA),365,CCL
+Central Arkansas,44,UCA
+Central Connecticut,45,CCSU
+Central Connecticut St.,45,CCSU
+Central Connecticut State,45,CCSU
+Central Michigan,46,CMU
+Charleston,47,C of C
+Charleston Southern,48,CHASO
+Charlotte,49,CHAR
+Chattanooga,50,CHATT
+Chicago St.,51,CHIST
+Chicago State,51,CHIST
+Cincinnati,52,CINCY
+Citadel,307,CTDL
+Citadel,307,CTDL
+Clemson,53,CLEM
+Cleveland St.,54,CLEST
+Cleveland State,54,CLEST
+Coastal Carolina,55,CCU
+Colgate,56,COLGT
+College of Charleston,47,C of C
+Colorado,57,COLO
+Colorado St.,58,COLST
+Colorado State,58,COLST
+Columbia,59,COM
+Connecticut,321,UConn
+Coppin St.,60,COPST
+Coppin State,60,COPST
+Cornell,61,COR
+Creighton,62,CREI
+Dartmouth,63,DART
+Davidson,64,DAV
+Dayton,65,DAY
+Delaware,66,DEL
+Delaware St.,67,DESU
+Delaware State,67,DESU
+Denver,68,DEN
+DePaul,69,DEP
+Detroit,70,UDM
+Detroit Mercy,70,UDM
+Detroit-Mercy,70,UDM
+Dixie St.,333,UTECH
+Drake,71,DRAKE
+Drexel,72,DREX
+Duke,73,DUKE
+Duquesne,74,DUQ
+East Carolina,75,ECAR
+East Tennessee St.,76,ETSU
+ETSU,76,ETSU
+East Tennessee State,76,ETSU
+Eastern Illinois,77,EIU
+Eastern Kentucky,78,EKU
+Eastern Michigan,79,EMICH
+Eastern Washington,80,EWASH
+Elon,81,ELON
+Evansville,82,UE
+Fairfield,83,FAIR
+Fairleigh Dickinson,84,FDU
+FIU,89,FIU
+Florida,85,FLA
+Florida A&M,86,FAMU
+Florida Atlantic,87,FAU
+Florida Gulf Coast,88,FGCU
+Florida International,89,FIU
+Florida St.,90,FLAST
+Florida State,90,FLAST
+Fordham,91,FORD
+Fort Wayne,92,IPFW
+Fort Wayne,92,IPFW
+Fresno St.,93,FRSNO
+Fresno State,93,FRSNO
+Furman,94,FRMN
+Gardner Webb,95,GWU
+Gardner-Webb,95,GWU
+George Mason,96,GMU
+George Washington,97,GW
+Georgetown,98,GTOWN
+Georgia,99,UGA
+Georgia Southern,100,GASO
+Georgia St.,101,GAST
+Georgia State,101,GAST
+Georgia Tech,102,GT
+Gonzaga,103,ZAGS
+Grambling St.,104,GRAMB
+Grambling State,104,GRAMB
+Grambling,104,GRAMB
+Grand Canyon,105,GCU
+Green Bay,106,UWGB
+Hampton,107,HMPTN
+Hartford,108,UHA
+Harvard,109,HAR
+Hawaii,110,HAW
+High Point,111,HP
+Hofstra,112,HOF
+Holy Cross,113,HC
+Houston,114,U of H
+Houston Baptist,115,HCU
+Houston Christian,115,HCU
+Howard,116,HWRD
+Idaho,117,IDAHO
+Idaho St.,118,IDHST
+Idaho State,118,IDHST
+Illinois,119,ILL
+Illinois Chicago,121,UIC
+UIC,121,UIC
+Illinois St.,120,ILLST
+Illinois State,120,ILLST
+Illinois-Chicago,121,UIC
+Incarnate Word,122,UIW
+Indiana,123,IU
+Indiana St.,124,INDST
+Indiana State,124,INDST
+Iona,125,IONA
+Iowa,126,IOWA
+Iowa St.,127,IWAST
+Iowa State,127,IWAST
+IPFW,92,IPFW
+IUPUI,128,IUPUI
+Jackson St.,129,JKSN
+Jackson State,129,JKSN
+Jacksonville,130,JAC
+Jacksonville St.,131,JKSNV
+Jacksonville State,131,JKSNV
+James Madison,132,JMU
+Kansas,133,KU
+Kansas St.,134,KSU
+Kansas State,134,KSU
+Kennesaw St.,135,KENN
+Kennesaw State,135,KENN
+Kent St.,136,KENT
+Kent State,136,KENT
+Kentucky,137,UK
+La Salle,138,LASAL
+Lafayette,139,LAFAY
+Lamar,140,LAMAR
+Lehigh,141,LEHI
+Liberty,142,LBRTY
+Lindenwood,143,LIND
+Lipscomb,144,LIP
+Little Rock,145,UALR
+LIU,147,LIU
+LIU Brooklyn,147,LIU
+Long Beach St.,146,LBSU
+Long Beach State,146,LBSU
+Long Island,147,LIU
+Longwood,148,LONG
+Louisiana,149,LA
+Louisiana Lafayette,149,LA
+Louisiana Monroe,151,ULM
+Louisiana Tech,150,LATCH
+Louisiana-Monroe,151,ULM
+Louisville,152,LVILL
+Loyola (IL),153,L-IL
+Loyola (MD),154,L-MD
+Loyola Chicago,153,L-IL
+Loyola Marymount,155,LOYMR
+Loyola MD,154,L-MD
+LSU,156,LSU
+Maine,157,MAINE
+Manhattan,158,MAN
+Marist,159,MRST
+Marquette,160,MARQ
+Marshall,161,MARSH
+Maryland,162,UMD
+Maryland Eastern Shore,163,UMES
+Maryland-Eastern Shore,163,UMES
+Massachusetts,164,UMass
+UMass-Lowell,164,UMass
+UMass,164,UMass
+McNeese St.,165,MCNST
+McNeese State,165,MCNST
+McNeese,165,MCNST
+Memphis,166,MEMP
+Mercer,167,MER
+Merrimack,168,MERRI
+Merrimack College,168,MERRI
+Miami (FL),169,UMFL
+Miami (OH),170,MIAMI
+Miami FL,169,UMFL
+Miami OH,170,MIAMI
+Michigan,171,MICH
+Michigan St.,172,MCHST
+Michigan State,172,MCHST
+Middle Tennessee,173,MTSU
+Middle Tennessee St.,173,MTSU
+Middle Tennessee State,173,MTSU
+Milwaukee,174,UWM
+Minnesota,175,MINN
+Mississippi,222,MISS
+Mississippi St.,176,MISST
+Mississippi State,176,MISST
+Mississippi Valley St.,177,MVSU
+Mississippi Valley State,177,MVSU
+Missouri,178,MZZOU
+Missouri St.,179,MZZST
+Missouri State,179,MZZST
+Monmouth,180,MONM
+Montana,181,MONT
+Montana St.,182,MTSTU
+Montana State,182,MTSTU
+Morehead St.,183,MRHD
+Morehead State,183,MRHD
+Morgan St.,184,MORST
+Morgan State,184,MORST
+Morris Brown,99999,MBC
+Mount St. Mary's,185,MSMU
+Murray St.,186,MRRY
+Murray State,186,MRRY
+N.C. State,189,NCST
+N.J.I.T.,187,NJIT
+Navy,188,USNA
+NC St.,189,NCST
+NC State,189,NCST
+Nebraska,190,UNL
+Nebraska Omaha,223,OMAHA
+Nevada,191,UNR
+New Hampshire,192,NEWHA
+New Mexico,193,UNM
+New Mexico St.,194,NMSU
+New Mexico State,194,NMSU
+New Orleans,195,NEWOR
+Niagara,196,NIAG
+Nicholls St.,197,NICH
+Nicholls State,197,NICH
+NJIT,187,NJIT
+Norfolk St.,198,NORF
+Norfolk State,198,NORF
+North Alabama,199,UNA
+North Carolina,200,UNC
+UNC,200,UNC
+North Carolina A&T,201,NC A&T
+North Carolina Central,202,NCCU
+North Carolina St.,189,NCST
+North Dakota,203,UND
+North Dakota St.,204,NDSU
+North Dakota State,204,NDSU
+North Florida,205,UNF
+North Texas,206,UNT
+Northeastern,207,NEU
+Northern Arizona,208,NAU
+Northern Colorado,209,NOCOL
+Northern Illinois,210,NIU
+Northern Iowa,211,UNI
+Northern Kentucky,212,NKU
+Northwestern,213,NWU
+Northwestern St.,214,NSU
+Northwestern State,214,NSU
+Notre Dame,215,ND
+Oakland,216,OAKL
+Ohio,217,OHIO
+Ohio St.,218,OSU
+Ohio State,218,OSU
+Oklahoma,219,OKLA
+Oklahoma St.,220,OKST
+Oklahoma State,220,OKST
+Old Dominion,221,ODU
+Ole Miss,222,MISS
+Omaha,223,OMAHA
+Oral Roberts,224,ORU
+Oregon,225,OREG
+Oregon St.,226,ORST
+Oregon State,226,ORST
+Pacific,227,PACI
+Penn,229,PENN
+Penn St.,228,PENST
+Penn State,228,PENST
+Pennsylvania,229,PENN
+Pepperdine,230,PEPP
+Pittsburgh,231,PITT
+PITT,231,PITT
+Portland,232,UP
+Portland St.,233,PORTL
+Portland State,233,PORTL
+Prairie View,234,PVAMU
+Prairie View A&M,234,PVAMU
+Presbyterian,235,PRSBY
+Princeton,236,PRIN
+Providence,237,PROV
+Purdue,238,PURD
+Purdue Fort Wayne,92,IPFW
+Queens,239,QUC
+Queens (NC),239,QUC
+Queens University,239,QUC
+Quinnipiac,240,QUIN
+Radford,241,RADF
+Rhode Island,242,URI
+Rice,243,RICE
+Richmond,244,RICH
+Rider,245,RIDER
+Robert Morris,246,RMU
+Rutgers,247,RUTG
+Sacramento St.,248,CSUS
+Sacramento State,248,CSUS
+Sacred Heart,249,HEART
+Saint Joseph's,250,STJOE
+St. Joseph's,250,STJOE
+Saint Louis,251,STLOU
+Saint Mary's,252,STMRY
+Saint Peter's,253,STPC
+St. Peter's,253,STPC
+Sam Houston St.,254,SHSU
+Sam Houston State,254,SHSU
+Sam Houston,254,SHSU
+Samford,255,SAMF
+UC-San Diego,256,SAND
+San Diego,256,SAND
+San Diego St.,257,SDSU
+San Diego State,257,SDSU
+San Francisco,258,SANFR
+San Jose St.,259,SJSU
+San Jose State,259,SJSU
+Santa Clara,260,SCU
+Savannah St.,364,SST
+Savannah State,364,SST
+Seattle,261,SEA
+Seton Hall,262,SETON
+Siena,263,SIENA
+SIU Edwardsville,264,SIUE
+SIU-Edwardsville,264,SIUE
+SMU,276,SMU
+South Alabama,265,USA
+South Carolina,266,SOCAR
+South Carolina St.,267,SCSU
+South Carolina State,267,SCSU
+South Dakan St.,269,SDKSU
+South Dakota,268,SODAK
+South Dakota St.,269,SDKSU
+South Dakota State,269,SDKSU
+South Florida,270,USOFL
+Southeast Missouri St.,271,SEMO
+Southeast Missouri State,271,SEMO
+Southeastern Louisiana,272,SELU
+Southern,273,SUBR
+Southern Illinois,274,SOILL
+Southern Indiana,275,USI
+Southern Methodist,276,SMU
+Southern Methodist,276,SMU
+Southern Miss,277,SOMIS
+Southern Mississippi,277,SOMIS
+Southern Utah,278,SUU
+Southwest Missouri St.,179,MZZST
+Southwest Texas St.,302,TXST
+St. Bonaventure,279,STBN
+St. Francis (NY),280,SFC
+St. Francis (PA),281,STFPA
+St. Francis NY,280,SFC
+Saint Francis (PA),281,STFPA
+Saint Francis,281,STFPA
+St. Francis PA,281,STFPA
+St. John's,282,STJ
+St. John's (NY),282,STJ
+St. Thomas,283,STTOM
+St. Thomas (MN),283,STTOM
+St. Thomas (MN),283,STTOM
+St. Thomas-Minnesota,283,STTOM
+Stanford,284,STAN
+Stephen F. Austin,285,SFA
+Stetson,286,STET
+Stonehill,287,STONE
+Stony Brook,288,SB
+Syracuse,289,SYRA
+Tarleton St.,290,TARST
+Tarleton State,290,TARST
+TCU,291,TCU
+TCU,291,TCU
+Temple,292,TEM
+Tennessee,293,TENN
+Tennessee Martin,296,UTM
+Tennessee St.,294,TNST
+Tennessee State,294,TNST
+Tennessee Tech,295,TNTCH
+Tennessee-Martin,296,UTM
+UT-Martin,296,UTM
+Texas,297,TEXAS
+Texas A&M,298,TAMU
+Texas A&M Commerce,299,TAMUC
+Texas A&M-Commerce,299,TAMUC
+Texas A&M Corpus Chris,300,TAMU-CC
+Texas A&M-CC,300,TAMU-CC
+Texas A&M-Corpus Christi,300,TAMU-CC
+Texas Christian,291,TCU
+Texas Christian,291,TCU
+Texas Pan American,305,UTRGV
+Texas Pan American,0,0
+Texas Southern,301,TEXSO
+Texas-San Antonio,306,UTSA
+Texas St.,302,TXST
+Texas State,302,TXST
+Texas Tech,303,TXTCH
+Texas-Arlington,304,UTA
+Texas-RGV,305,UTRGV
+The Citadel,307,CTDL
+The Citadel,307,CTDL
+Toledo,308,U of T
+Towson,309,TOWS
+Troy,310,TROY
+Troy St.,310,TROY
+Tulane,311,TULAN
+Tulsa,312,TULSA
+UAB,313,UAB
+UC-Davis,314,UCD
+UC Davis,314,UCD
+UC-Irvine,315,UCI
+UC Irvine,315,UCI
+UC-Riverside,316,UCR
+UC Riverside,316,UCR
+UC San Diego,317,UCSD
+UC Santa Barbara,318,UCSB
+UCSB,318,UCSB
+UCF,319,UCF
+UCLA,320,UCLA
+UMass Lowell,322,UML
+UMBC,323,UMBC
+UMKC,324,UMKC
+UNC Asheville,325,UNCA
+UNC Greensboro,326,UNCG
+UNC Wilmington,327,UNCW
+UNLV,328,UNLV
+USC,329,USC
+USC Upstate,330,USCU
+UT Arlington,304,UTA
+UT Rio Grande Valley,305,UTRGV
+Texas-Rio Grande Valley,305,UTRGV
+Utah,331,U of U
+Utah St.,332,USU
+Utah State,332,USU
+Utah Tech,333,UTECH
+Utah Valley,334,UVU
+Utah Valley St.,334,UVU
+UTEP,335,UTEP
+UTSA,306,UTSA
+Valparaiso,336,VAL
+Vanderbilt,337,VANDY
+VCU,338,VCU
+Vermont,339,UVM
+Villanova,340,VILL
+Virginia,341,UVA
+Virginia Military,342,VMI
+Virginia Tech,343,VT
+VMI,342,VMI
+Wagner,344,WAGNR
+Wake Forest,345,WF
+Washington,346,UWASH
+Washington St.,347,WSU
+Washington State,347,WSU
+Weber St.,348,WEBER
+Weber State,348,WEBER
+West Virginia,349,WVU
+Western Carolina,350,WCU
+Western Illinois,351,WIU
+Western Kentucky,352,WKU
+Western Michigan,353,WMY
+Wichita St.,354,WICHI
+Wichita State,354,WICHI
+William & Mary,355,W&M
+Winston-Salem,366,WSSU
+Winston Salem St.,366,WSSU
+Winston-Salem State,366,WSSU
+Winthrop,356,WIN
+Wisconsin,357,UWISC
+Wofford,358,WOFF
+Wright St.,359,WRST
+Wright State,359,WRST
+Wyoming,360,UWYOM
+Xavier,361,XAV
+Yale,362,YALE
+Youngstown St.,363,YSU
+Youngstown State,363,YSU
+Kansas City,500,KC
+Le Moyne,510,LM
+Le Moyne,510,MOYNE
+UConn,321,UConn
