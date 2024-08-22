@@ -7,9 +7,9 @@
 #### Acquired Data since 2003 from ![realgm](https://basketball.realgm.com/ncaa/) and ![Men's College Basketball Reference](https://www.sports-reference.com/cbb/seasons/men/2023-polls.html).
 
 ##### Project About:
-- Since my NBA champion project is fully end-to-end (web scraped -> transformed -> analyzed) in python, this project is NOT web scraped by code entirely. 
+- Since my NBA champion project is fully end-to-end (web scraped -> transformed -> analyzed) in python, this project is NOT web scraped by code entirely (*Reasoning: I hand copied almost all of this data a long time ago*).
 ##### How to setup/run the Project:
-- For predicting new seasons in the future, for example 2025, 2026 you'll have to hand copy the new season data from website using my given links to find the approriate tables, then format as follows in each file (via excel/python/whatever).
+- For predicting new seasons in the future, for example 2025, 2026 you'll have to hand copy the new season data from website using my given links to find the approriate tables, then format *clean data* as follows in each file (via excel/python/whatever).
 - Then run python file ncaa_champ_data then run ncaa_champ_ml for results.
 
 ##### CSV's | website location links
@@ -26,7 +26,7 @@
 - all_team_ncrs_average_data (https://basketball.realgm.com/ncaa/team-stats/2024/Averages/Team_Totals/2)
 - all_team_ncrs_misc_data (https://basketball.realgm.com/ncaa/team-stats/2024/Misc_Stats/Team_Totals/2)
 - all_team_tournament_data (This is not pre-set on any website the was together from wiki scraping, coding, and personal research with said, its 100% correct. All Men's NCAA D1 bball teams since 2003 tournament seed, tournament wins, and bracket region.)
-- team_index_custom 
+- team_index_custom (update per new school name change, for future, if it happens)
 - team_index_season (https://basketball.realgm.com/ncaa/teams)
   
    
