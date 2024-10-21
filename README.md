@@ -1,6 +1,8 @@
 # Predicting the NCAA Men's March Madness Champion Using Machine Learning
 
-![NCAA Champion Art](https://github.com/allenjake440/Mens_March_Madness_Champion/assets/134075534/9c552d90-6d45-4b71-bf29-6838626cf0e9)
+<div align="center">
+  <img src="https://github.com/allenjake440/Mens_March_Madness_Champion/assets/134075534/9c552d90-6d45-4b71-bf29-6838626cf0e9" alt="NCAA Champion Art">
+</div>
 
 ## Overview
 
