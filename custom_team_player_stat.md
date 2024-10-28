@@ -9,9 +9,7 @@
 
 The formula for calculating Game Score is as follows:
 
-\[
-\text{Game Score} = \text{Points} + 0.4 \times \text{Field Goals Made} - 0.7 \times \text{Field Goals Attempted} - 0.4 \times (\text{Free Throws Attempted} - \text{Free Throws Made}) + 0.7 \times \text{Offensive Rebounds} + 0.3 \times \text{Defensive Rebounds} + \text{Steals} + 0.7 \times \text{Assists} + 0.7 \times \text{Blocks} - 0.4 \times \text{Personal Fouls} - \text{Turnovers}
-\]
+Game Score=Points+0.4×Field Goals Made−0.7×Field Goals Attempted−0.4×(Free Throws Attempted−Free Throws Made)+0.7×Offensive Rebounds+0.3×Defensive Rebounds+Steals+0.7×Assists+0.7×Blocks−0.4×Personal Fouls−Turnovers
 
 ### Explanation
 
