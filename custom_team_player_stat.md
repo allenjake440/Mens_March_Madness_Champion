@@ -55,8 +55,8 @@ The code and visualizations provided clarify each feature's weight (as a percent
 | Feature                           | Description                                                                                       | Weight (%) |
 |-----------------------------------|---------------------------------------------------------------------------------------------------|------------|
 | `crs_GMSc`                               | Player's average regular season in-conference game score                                                           | 53.32     |
-| `TD`                         | Player's associated teams average margin of victory (in & out of conference regular season games)                                                       | 29.63      |
-| `sum_mvp_shares_L4S_cs`        | Player's associated teams average AP Poll Rank from pre-season to poll 18                              | 17.05      |
+| `MOV`                         | Player's associated teams average margin of victory (in & out of conference regular season games)                                                       | 29.63      |
+| `avg_ap_poll_rank_Pre_18`        | Player's associated teams average AP Poll Rank from pre-season to poll 18                              | 17.05      |
 
 ### Bar Chart Feature Weights Breakdown
 
