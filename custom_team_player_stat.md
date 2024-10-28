@@ -1,7 +1,7 @@
 # Team and Player Rating Custom - The Science Behind the Statistic
 
-**Player Rating Custom** is a regression-based, scaled formula that assigns a season score to each player on a 0-100 scale. This rating takes into account the player's average game score within their conference, the average AP Poll ranking (From Pre-Season to the 18th Poll *NOT FINAL*) of their team throughout the season, and the team's average margin of victory. Note that these statistics only include regular season games, both in-conference and out-of-conference.
-**Team Rating Custom** is simply the average of all Player Rating Custom values for players on that team for the given season. This score represents the overall performance level of the team by summarizing individual player contributions.
+- **Player Rating Custom** is a regression-based, scaled formula that assigns a season score to each player on a 0-100 scale. This rating takes into account the player's average game score within their conference, the average AP Poll ranking (From Pre-Season to the 18th Poll *NOT FINAL*) of their team throughout the season, and the team's average margin of victory. Note that these statistics only include regular season games, both in-conference and out-of-conference.
+- **Team Rating Custom** is simply the average of all Player Rating Custom values for players on that team for the given season. This score represents the overall performance level of the team by summarizing individual player contributions.
 
 # The Breakdown of Player Rating Custom
 
