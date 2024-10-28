@@ -46,7 +46,7 @@ all_player_data['crs_GmSc'] = (
 1. **Feature Scaling**: Each feature is absoluated min-max scaled.
 2. **Weighted Scoring**: Features are multiplied by specific weights (detailed below) based on insights, trial and error, and domain expertise.
 
-The code and visualizations provided clarify each feature's weight (as a percentage) in calculating the QB Season Rating Custom metric. See the `nfl_champ_data` file for complete code details.
+The code and visualizations provided clarify each feature's weight (as a percentage) in calculating the QB Season Rating Custom metric. See the `ncaa_champ_data` file for complete code details.
 
 ### Feature Weights Breakdown
 
