@@ -5,7 +5,7 @@
 
 # The Breakdown of Player Rating Custom
 
-## Game Score (Player Stat) - The Science Behind the Statistic
+## Game Score (Player Statistic) - The Science Behind the Statistic
 
 The formula for calculating Game Score is as follows:
 
