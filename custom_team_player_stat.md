@@ -43,23 +43,26 @@ all_player_data['crs_GmSc'] = (
 
 ## Methodology 
 
-1. **Feature Scaling**: Each feature is absoluated min-max scaled.
-2. **Weighted Scoring**: Features are multiplied by specific weights (detailed below) based on insights, trial and error, and domain expertise.
+1. **Weighted Scoring**: Each feature is multiplied by a defined weight (detailed below), determined through insights, trial and error, and domain expertise.
+2. **Feature Importance**: To assess feature significance within the player rating metric:
+   - First, calculate the average value for each feature.
+   - Next, multiply this average by the corresponding weight.
+   - Finally, divide each weighted value by the sum of all weighted values to yield the relative importance of each feature.
 
-The code and visualizations provided clarify each feature's weight (as a percentage) in calculating the QB Season Rating Custom metric. See the `ncaa_champ_data` file for complete code details.
+The code and visualizations provided clarify each feature's weight (as a percentage) in calculating the player Season Rating Custom metric. See the `ncaa_champ_data` file for complete code details.
 
 ### Feature Weights Breakdown
 
 | Feature                           | Description                                                                                       | Weight (%) |
 |-----------------------------------|---------------------------------------------------------------------------------------------------|------------|
-| `crs_GMSc`                               | Player's average regular season in-conference game score                                                           | 53.32     |
-| `MOV`                         | Player's associated teams average margin of victory (in & out of conference regular season games)                                                       | 29.63      |
-| `avg_ap_poll_rank_Pre_18`        | Player's associated teams average AP Poll Rank from pre-season to poll 18                              | 17.05      |
+| `crs_GMSc`                               | Player's average regular season in-conference game score                                                           | 19.86     |
+| `MOV`                         | Player's associated teams average margin of victory (in & out of conference regular season games)                                                       | 3.26      |
+| `avg_ap_poll_rank_Pre_18`        | Player's associated teams average AP Poll Rank from pre-season to poll 18                              | -22.12      |
 
 ### Bar Chart Feature Weights Breakdown
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6cf9db5d-21de-43c6-98ba-452a304bd4bd" alt="player_rat_cus">
+  <img src="https://github.com/user-attachments/assets/45d7a8b7-aead-4523-b907-e12d990fc5e2" alt="player_rat_cus">
 </div>
 
 ### Code for Player Custom Rating Calculation
