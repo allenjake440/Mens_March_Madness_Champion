@@ -41,28 +41,33 @@ all_player_data['crs_GmSc'] = (
 )
 ```
 
-## Methodology 
+## Methodology - Understanding whats important in the Formula.
 
 1. **Weighted Scoring**: Each feature is multiplied by a defined weight (detailed below), determined through insights, trial and error, and domain expertise.
 2. **Feature Importance**: To assess feature significance within the player rating metric:
    - First, calculate the average value for each feature.
    - Next, multiply this average by the corresponding weight.
    - Finally, divide each weighted value by the sum of all weighted values to yield the relative importance of each feature.
+3. **Pearson Correlation Coefficients**: Whats the PCC for each feature to the result of the metric.
 
 The code and visualizations provided clarify each feature's weight (as a percentage) in calculating the player Season Rating Custom metric. See the `ncaa_champ_data` file for complete code details.
 
 ### Feature Weights Breakdown
 
-| Feature                           | Description                                                                                       | Weight (%) |
-|-----------------------------------|---------------------------------------------------------------------------------------------------|------------|
-| `crs_GMSc`                               | Player's average regular season in-conference game score                                                           | 19.86     |
-| `MOV`                         | Player's associated teams average margin of victory (in & out of conference regular season games)                                                       | 3.26      |
-| `avg_ap_poll_rank_Pre_18`        | Player's associated teams average AP Poll Rank from pre-season to poll 18                              | -22.12      |
+| Feature                           | Description                                                                                      
+|-----------------------------------|---------------------------------------------------------------------------------------------------
+| `crs_GMSc`                               | Player's average regular season in-conference game score                                                           
+| `MOV`                         | Player's associated teams average margin of victory (in & out of conference regular season games)                                                       
+| `avg_ap_poll_rank_Pre_18`        | Player's associated teams average AP Poll Rank from pre-season to poll 18                              
 
-### Bar Chart Feature Weights Breakdown
+### Bar Charts
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/45d7a8b7-aead-4523-b907-e12d990fc5e2" alt="player_rat_cus">
+  <img src="https://github.com/user-attachments/assets/c04b1608-2d11-40dd-b673-f07d99b15c5a" alt="player_rat_cus">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/24ee9a2a-07d7-4522-906a-3e69e57b394c" alt="player_rat_cus">
 </div>
 
 ### Code for Player Custom Rating Calculation
