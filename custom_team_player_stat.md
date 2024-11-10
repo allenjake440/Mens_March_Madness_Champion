@@ -41,7 +41,7 @@ all_player_data['crs_GmSc'] = (
 )
 ```
 
-## Methodology - Understanding whats important in the Formula.
+## Methodology - Understanding whats important in the Formula
 
 1. **Weighted Scoring**: Each feature is multiplied by a defined weight (detailed below), determined through insights, trial and error, and domain expertise.
 2. **Feature Importance**: To assess feature significance within the player rating metric:
@@ -57,7 +57,7 @@ The code and visualizations provided clarify each feature's weight (as a percent
 | Feature                           | Description                                                                                      
 |-----------------------------------|---------------------------------------------------------------------------------------------------
 | `crs_GMSc`                               | Player's average regular season in-conference game score                                                           
-| `MOV`                         | Player's associated teams average margin of victory (in & out of conference regular season games)                                                       
+| `MOV`                         | Player's associated teams average margin of victory (in & out of conference regular season games)                                              
 | `avg_ap_poll_rank_Pre_18`        | Player's associated teams average AP Poll Rank from pre-season to poll 18                              
 
 ### Bar Charts
