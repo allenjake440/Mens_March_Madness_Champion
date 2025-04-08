@@ -19,45 +19,48 @@ Predicting the NCAA Men's March Madness Champion using machine learning based on
 
 ---
 
-## Project Details
+# Premium Sports Analytics Access
 
-This project is a continuation of my NBA champion project. While that project uses full web scraping, much of the data for this NCAA project was hand-collected over time.
+Welcome! This repository is part of a private collection of **3 fully-loaded sports analytics projects**, available exclusively through my [Patreon](https://www.patreon.com/c/JakeAllenData/membership).
 
-The project uses machine learning techniques to predict the NCAA Men's March Madness champion for upcoming years.
+## Included with Subscription
 
-### How to Set Up and Run the Project
+By joining the $5/month tier, you'll gain full access to all of the following:
 
-1. For predicting future seasons (e.g., 2025, 2026), manually copy the new season data from the websites linked below.
-2. Format the data (using Excel, Python, or other tools) according to the required structure.
-3. Run the Python file `ncaa_champ_data.py` to load the data.
-4. Run `ncaa_champ_ml.py` to generate predictions.
+### NBA Champion Predictor & Analytics
+- Raw historical data on teams, players, advanced stats, and playoff stats.
+- Feature engineered data, in-depth player and team metrics.
+- Machine Learning and Data Analysis on it all.
+- Analytics and visualizations.
 
----
+### NFL Champion Predictor & Analytics
+- Raw historical data on teams, players, advanced stats, and playoff stats.
+- Feature engineered data, in-depth player and team metrics.
+- Machine Learning and Data Analysis on it all.
+- Analytics and visualizations.
 
-## CSV Files and Data Sources
-
-Below is a list of the required CSV files and their corresponding sources:
-
-- **all_coach_data**: [Sports Reference Coaches](https://www.sports-reference.com/cbb/seasons/men/2024-coaches.html)
-- **all_player_cf_tour_avg_data**: [RealGM Conference Tournament Player Stats](https://basketball.realgm.com/ncaa/stats/2024/Averages/Qualified/All/Conference_Tournament/All/points/desc/1/) (All pages, "Qualified" checked)
-- **all_player_crs_avg_data**: [RealGM Conference Regular Season Player Stats](https://basketball.realgm.com/ncaa/stats/2024/Averages/Qualified/All/Conference_Regular_Season/All/points/desc/1/) (All pages, "Qualified" checked)
-- **all_player_mm_tour_avg_data**: [RealGM NCAA Tournament Player Stats](https://basketball.realgm.com/ncaa/stats/2024/Averages/Qualified/All/Post-Season_NCAA_Tournament/All/points/desc/1/) (All pages, "Qualified" checked)
-- **all_team_ap_poll_data**: [Sports Reference AP Poll Data](https://www.sports-reference.com/cbb/seasons/men/2024-polls.html)
-- **all_team_crs_advanced_data**: [RealGM Conference Regular Season Advanced Team Stats](https://basketball.realgm.com/ncaa/team-stats/2024/Advanced_Stats/Team_Totals/4)
-- **all_team_crs_average_data**: [RealGM Conference Regular Season Team Averages](https://basketball.realgm.com/ncaa/team-stats/2024/Averages/Team_Totals/4)
-- **all_team_crs_misc_data**: [RealGM Conference Regular Season Miscellaneous Stats](https://basketball.realgm.com/ncaa/team-stats/2024/Misc_Stats/Team_Totals/4)
-- **all_team_kenpom_data**: [KenPom](https://kenpom.com/)
-- **all_team_ncrs_advanced_data**: [RealGM Non-Conference Regular Season Advanced Stats](https://basketball.realgm.com/ncaa/team-stats/2024/Advanced_Stats/Team_Totals/2)
-- **all_team_ncrs_average_data**: [RealGM Non-Conference Regular Season Team Averages](https://basketball.realgm.com/ncaa/team-stats/2024/Averages/Team_Totals/2)
-- **all_team_ncrs_misc_data**: [RealGM Non-Conference Regular Season Miscellaneous Stats](https://basketball.realgm.com/ncaa/team-stats/2024/Misc_Stats/Team_Totals/2)
-- **all_team_tournament_data**: This data was gathered from various sources, including scraping Wikipedia and personal research. It includes data on all Men's NCAA D1 basketball teams' tournament seeds, wins, and bracket regions since 2003.
-- **team_index_custom**: Update this for new school name changes if necessary for future seasons.
-- **team_index_season**: [RealGM Teams](https://basketball.realgm.com/ncaa/teams)
+### NCAA March Madness Predictor & Analytics
+- Raw historical data on teams, players, advanced stats, and tournament stats.
+- Feature engineered data, in-depth player and team metrics.
+- Machine Learning and Data Analysis on it all.
+- Analytics and visualizations.
 
 ---
 
-## Notes
+## What’s Included in Each Repo
+- Full raw datasets (CSV/Excel)
+- Clean compiler scripts for merging and structuring data.
+- Complete machine learning pipelines (with model evaluation).
+- Visualizations (team rankings, predicted win odds, trend charts, and more.)
+- Python notebooks + modular scripts for full flexibility.
 
-- The data for this project was hand-collected. For future seasons, data should be manually collected and formatted appropriately.
-- The project involves machine learning techniques using Python to predict NCAA champions based on various statistical data sources.
+---
+
+## How to Get Access
+
+1. Join the [$5/month Patreon tier](https://www.patreon.com/c/JakeAllenData/membership)
+2. Send me your **GitHub username** via DM or post on Patreon
+3. You'll be invited to all 3 private GitHub repositories within 24 hours
+
+---
 
